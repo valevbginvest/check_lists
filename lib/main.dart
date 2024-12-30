@@ -6,7 +6,7 @@ import 'models.dart';
 class TableRepository {
   List<TableScheme> tables = [
     TableScheme(
-      name: 'Users',
+      name: 'Users test',
       records: [
         ['John Doe', 25, DateTime(1996, 1, 1), 'Full Time', 'Remote', 'Morning'],
         ['Jane Doe', 30, DateTime(1991, 1, 1), 'Part Time', 'Office', 'Lunch'],
